@@ -11,7 +11,7 @@
 7. Notification Shower
 8. Dark And Light Theme toggler
 9. Simple Stopwatch
-10. Unit converter
+10. Currency converter
 11. Simple Navigation Bar with Multiple Pages
 12. Simple Music Player
 13. Simple Drawer With Navigation
